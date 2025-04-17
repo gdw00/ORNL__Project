@@ -1,4 +1,5 @@
 # Project Overview
+![Model architecture](Model architecture.png)
 This repository contains scripts and models for training, evaluating, and visualizing results from LSTM-based models. Below is a brief description of each file:
 
 ## File Descriptions
