@@ -40,7 +40,9 @@ class Config:
         'cpool', 'npool', 'ppool', 'xsmrpool',
         'Y_cpool', 'Y_npool', 'Y_ppool', 'Y_xsmrpool',
         'FH2OSFC',
-        'Y_FH2OSFC'
+        'Y_FH2OSFC',
+        'secondp_vr',
+        'Y_secondp_vr'
     ]
     
     X_LIST_COLUMNS_2D = [
